@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Bora Lee/ @bora001
-- 🌱 I’m currently learning ReactJS, NodeJS, redux
+- 🌱 I’m currently learning about ReactJS, NodeJS, redux
