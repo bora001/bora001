@@ -6,6 +6,14 @@
 - http://bora--lee.com/
 - http://bora--lee.com/old
 
+# Project with Studying 
+1. Painting Project (javascript / canvas)
+- https://bora001.github.io/paintJS/index.html
+
+2. Movie Project (Reactjs, Redux, MongoDB, ...)
+- https://github.com/bora001/movie2
+- https://reactmovieapp2.herokuapp.com/
+
 # Skills
 - HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
 
