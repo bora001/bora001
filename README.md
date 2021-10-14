@@ -1,18 +1,19 @@
+# Greeting
 - 👋 Hi, I’m Bora Lee/ @bora001
 - 🌱 I’m currently learning about ReactJS, NodeJS, redux
 
+# Portfolio
+- http://bora--lee.com/
+- http://bora--lee.com/old
 
-# Skills        |     # Studying     |   # Design
-- HTML          |     - Reactjs      |   - Adobe Photoshop 
-- CSS           |     - Redux        |   - Adobe Illustrator
-- JQuert        |     - Nodejs       |   - Figma
-- Javascript    |     - MongoDB      |   - Adobe XD
-- Github        |     - Heroku       |
-- TortoiseSVN   |                    |
-
+# Skills
+- HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
 
 # Previous Work Environment 
-- Sass
-- Gulpjs
+- Sass / Gulpjs
 
+# Studying
+- Reactjs / Redux / Nodejs / MongoDB / Heroku 
 
+# Design
+- Adobe Photoshop / Adobe Illustrator / Figma / Adobe XD
