@@ -17,7 +17,7 @@
 # Skills
 - HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
 
-# Previous Work Environment 
+# Lightly studied
 - Sass / Gulpjs
 
 # Studying
