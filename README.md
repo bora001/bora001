@@ -17,7 +17,7 @@
 # Skills
 - HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
 
-# Lightly studied
+# Lightly Worked with
 - Sass / Gulpjs
 
 # Studying
