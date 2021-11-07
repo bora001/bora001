@@ -14,6 +14,11 @@
 - https://github.com/bora001/movie2
 - https://reactmovieapp2.herokuapp.com/
 
+3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
+- upload the video works only at localhost
+- https://github.com/bora001/youtube01
+- https://react-video-upload.herokuapp.com/
+
 # Skills
 - HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
 
