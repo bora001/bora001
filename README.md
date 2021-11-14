@@ -10,11 +10,15 @@
 1. Painting Project (javascript / canvas)
 - https://bora001.github.io/paintJS/index.html
 
-2. Movie Project (Reactjs, Redux, MongoDB, ...)
+2. Memopage with ReactJs
+- https://github.com/bora001/react_practice
+- https://bora001.github.io/react_practice/
+
+3. Movie Project (Reactjs, Redux, MongoDB, ...)
 - https://github.com/bora001/movie2
 - https://reactmovieapp2.herokuapp.com/
 
-3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
+4. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
 - upload the video works only at localhost
 - https://github.com/bora001/youtube01
 - https://react-video-upload.herokuapp.com/
