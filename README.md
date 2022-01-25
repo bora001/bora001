@@ -9,38 +9,38 @@
 # Javascript Project with Studying 
 
 1. Painting Project (javascript, canvas)
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/paintJS/index.html
+- https://bora001.github.io/paintJS/index.html
 
 2. Country Card Project (javascript, API, JSON)
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/world/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/world
+- https://bora001.github.io/world/
+- https://github.com/bora001/world
 
 3. Save on the map ( javascript, geolocation, Leaflet )
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/map/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/map
+https://bora001.github.io/map/
+https://github.com/bora001/map
 
 4. Banking (javascript, MongoDB, fetch, Heroku)
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://thebanking.herokuapp.com/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/banking
+https://thebanking.herokuapp.com/
+https://github.com/bora001/banking
 
 5. Recipe (javascript, fetch, Netlify, Sass, Parcel)
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://recipe-bora001.netlify.app/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/recipe
+https://recipe-bora001.netlify.app/
+https://github.com/bora001/recipe
 
 # React Project with Studying
 
 1. Memopage with ReactJs
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/react_practice/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/react_practice
+https://bora001.github.io/react_practice/
+https://github.com/bora001/react_practice
  
 2. Movie Project (Reactjs, Redux, MongoDB, ...)
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://reactmovieapp2.herokuapp.com/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/movie2
+https://reactmovieapp2.herokuapp.com/
+https://github.com/bora001/movie2
 
 3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
 - upload the video works only at localhost
-<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://react-video-upload.herokuapp.com/
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/youtube01
+https://react-video-upload.herokuapp.com/
+https://github.com/bora001/youtube01
 
 
 # Skills
