@@ -1,7 +1,7 @@
 # Greeting
 - 👋 Hi, I’m Bora Lee/ @bora001
 - 🌱 I’m currently learning about ReactJS, NodeJS, redux
-<a href="https://www.linkedin.com/in/boraleeinvacnouver/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/boraleeinvacnouver/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 # Portfolio
 - http://bora--lee.com/
