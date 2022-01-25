@@ -44,9 +44,9 @@
 
 
 # Skills
-- HTML / CSS / JQuery / Javascript / Github / TortoiseSVN  
+- HTML / CSS / JQuery / 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> / Github / TortoiseSVN  
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 # Lightly Worked with
 - Sass / Gulpjs
 
