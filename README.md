@@ -6,31 +6,38 @@
 - http://bora--lee.com/
 - http://bora--lee.com/old
 
-# Project with Studying 
-1. Painting Project (javascript / canvas)
+# Javascript Project with Studying 
+
+1. Painting Project (javascript, canvas)
 - https://bora001.github.io/paintJS/index.html
 
-2. Country Card Project (javascript / API / JSON)
+2. Country Card Project (javascript, API, JSON)
 - https://bora001.github.io/world/
 - https://github.com/bora001/world
 
-3. Save on the map ( javascript / geolocation / Leaflet )
+3. Save on the map ( javascript, geolocation, Leaflet )
 - https://bora001.github.io/map/
 - https://github.com/bora001/map
 
 4. Banking (javascript, MongoDB, fetch, Heroku)
-- https://github.com/bora001/banking
 - https://thebanking.herokuapp.com/
+- https://github.com/bora001/banking
 
-5. Memopage with ReactJs
+5. Recipe (javascript, fetch, Netlify, Sass, Parcel)
+- https://recipe-bora001.netlify.app/
+- https://github.com/bora001/recipe
+
+# React Project with Studying
+
+1. Memopage with ReactJs
 - https://bora001.github.io/react_practice/
 - https://github.com/bora001/react_practice
  
-6. Movie Project (Reactjs, Redux, MongoDB, ...)
+2. Movie Project (Reactjs, Redux, MongoDB, ...)
 - https://reactmovieapp2.herokuapp.com/
 - https://github.com/bora001/movie2
 
-7. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
+3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
 - upload the video works only at localhost
 - https://react-video-upload.herokuapp.com/
 - https://github.com/bora001/youtube01
