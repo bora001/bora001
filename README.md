@@ -9,42 +9,42 @@
 # Javascript Project with Studying 
 
 1. Painting Project (javascript, canvas)
-- https://bora001.github.io/paintJS/index.html
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/paintJS/index.html
 
 2. Country Card Project (javascript, API, JSON)
-- https://bora001.github.io/world/
-- https://github.com/bora001/world
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/world/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/world
 
 3. Save on the map ( javascript, geolocation, Leaflet )
-- https://bora001.github.io/map/
-- https://github.com/bora001/map
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/map/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/map
 
 4. Banking (javascript, MongoDB, fetch, Heroku)
-- https://thebanking.herokuapp.com/
-- https://github.com/bora001/banking
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://thebanking.herokuapp.com/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/banking
 
 5. Recipe (javascript, fetch, Netlify, Sass, Parcel)
-- https://recipe-bora001.netlify.app/
-- https://github.com/bora001/recipe
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://recipe-bora001.netlify.app/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/recipe
 
 # React Project with Studying
 
 1. Memopage with ReactJs
-- https://bora001.github.io/react_practice/
-- https://github.com/bora001/react_practice
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://bora001.github.io/react_practice/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/react_practice
  
 2. Movie Project (Reactjs, Redux, MongoDB, ...)
-- https://reactmovieapp2.herokuapp.com/
-- https://github.com/bora001/movie2
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://reactmovieapp2.herokuapp.com/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/movie2
 
 3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
 - upload the video works only at localhost
-- https://react-video-upload.herokuapp.com/
-- https://github.com/bora001/youtube01
+<img src="https://img.shields.io/badge/GoogleChrome-4285F4style=flat-square&logo=View Project&logoColor=white"/> https://react-video-upload.herokuapp.com/
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> https://github.com/bora001/youtube01
 
 
 # Skills
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> / <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/TortoiseSVN-b7c3ec" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/TortoiseSVN-b7c3ec" />
 
 # Lightly Worked with
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
