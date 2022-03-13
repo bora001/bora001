@@ -29,6 +29,10 @@
 - https://recipe-bora001.netlify.app/
 - https://github.com/bora001/recipe
 
+6. Placelist (javascript, fetch, Sass, Pacel, Heroku, MongoDB, Mapbox, Cloudinary)
+- https://placelist001.herokuapp.com/
+- https://github.com/bora001/placelist
+
 # React Project with Studying
 
 1. Memopage with ReactJs
