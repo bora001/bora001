@@ -32,6 +32,7 @@
 6. Placelist (javascript, fetch, Sass, Pacel, Heroku, MongoDB, Mapbox, Cloudinary)
 - https://placelist001.herokuapp.com/
 - https://github.com/bora001/placelist
+- https://github.com/bora001/placelist-ejs (html=>ejs, PassportJs, connect-flash)
 
 # React Project with Studying
 
