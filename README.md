@@ -1,6 +1,5 @@
 # Portfolio
 - http://bora--lee.com/
-- http://bora--lee.com/old
 
 # Javascript Project with Studying 
 
