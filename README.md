@@ -55,11 +55,14 @@
 - https://react-video-upload.herokuapp.com/
 - https://github.com/bora001/youtube01
 
-4. Reacteats Project (Reactjs, fireBase)
+4. Reacteats Project (React.js, typescript, Redux-toolkit, firebase)
 - https://react-eats-d1a40.web.app/
 - https://github.com/bora001/react_eats
 
-5. Reduxcart Project (Reactjs, firebase
+5. Reduxcart Project (React.js, typescript, Redux-toolkit, firebase)
 - https://redux-cart-e9066.web.app/
 - https://github.com/bora001/redux_cart
 
+6. React Placelist Project (React.js, typescript, Redux-toolkit, firebase)
+- https://react-placelist.web.app/
+- https://github.com/bora001/react_placelist
