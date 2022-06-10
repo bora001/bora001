@@ -10,11 +10,51 @@
 # Design
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
 
+<hr/>
+
+# Main Projects
+
+1. Reacteats Project (React.js, typescript, Redux-toolkit, firebase)
+- https://react-eats-d1a40.web.app/
+- https://github.com/bora001/react_eats
+
+2. Reduxcart Project (React.js, typescript, Redux-toolkit, firebase)
+- https://redux-cart-e9066.web.app/
+- https://github.com/bora001/redux_cart
+
+3. React Placelist Project (React.js, typescript, Redux-toolkit, firebase)
+- https://react-placelist.web.app/
+- https://github.com/bora001/react_placelist
+
+4. Nextjs Movie Project (Next.js, Vercel, TMDB API)
+- https://nextjs-movie-ten.vercel.app/
+- https://github.com/bora001/nextjs_movie
 
 
+<hr/>
 
+# React Projects with Studying
 
-# Javascript Project with Studying 
+1. Memopage with ReactJs
+- https://bora001.github.io/react_practice/
+- https://github.com/bora001/react_practice
+ 
+2. AccountBook with ReactJs
+- https://bora001.github.io/react_expense/
+- https://github.com/bora001/react_expense
+
+2. Movie Project (Reactjs, Redux, MongoDB, ...)
+- https://reactmovieapp2.herokuapp.com/
+- https://github.com/bora001/movie2
+
+3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
+- upload the video works only at localhost
+- https://react-video-upload.herokuapp.com/
+- https://github.com/bora001/youtube01
+
+<hr/>
+
+# Javascript Projects with Studying 
 
 1. Painting Project (javascript, canvas)
 - https://bora001.github.io/paintJS/index.html
@@ -36,33 +76,3 @@
 - https://github.com/bora001/placelist
 - https://github.com/bora001/placelist-ejs (html=>ejs, PassportJs, connect-flash)
 
-# React Project with Studying
-
-1. Memopage with ReactJs
-- https://bora001.github.io/react_practice/
-- https://github.com/bora001/react_practice
- 
-2. AccountBook with ReactJs
-- https://bora001.github.io/react_expense/
-- https://github.com/bora001/react_expense
-
-2. Movie Project (Reactjs, Redux, MongoDB, ...)
-- https://reactmovieapp2.herokuapp.com/
-- https://github.com/bora001/movie2
-
-3. Youtube Project (Reactjs, Redux, MongoDB, express, multer, fluent-ffmpeg ...)
-- upload the video works only at localhost
-- https://react-video-upload.herokuapp.com/
-- https://github.com/bora001/youtube01
-
-4. Reacteats Project (React.js, typescript, Redux-toolkit, firebase)
-- https://react-eats-d1a40.web.app/
-- https://github.com/bora001/react_eats
-
-5. Reduxcart Project (React.js, typescript, Redux-toolkit, firebase)
-- https://redux-cart-e9066.web.app/
-- https://github.com/bora001/redux_cart
-
-6. React Placelist Project (React.js, typescript, Redux-toolkit, firebase)
-- https://react-placelist.web.app/
-- https://github.com/bora001/react_placelist
