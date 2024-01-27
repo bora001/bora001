@@ -1,6 +1,6 @@
 <div align="center"> 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbora001%2Fhit-counter&count_bg=%23A877EF&title_bg=%235E15B0&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
+✨[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbora001%2Fhit-counter&count_bg=%23A877EF&title_bg=%235E15B0&title=Thank+you+for+visiting&edge_flat=true)](https://hits.seeyoufarm.com)
 
  ![rocket-3972_256](https://github.com/bora001/bora001/assets/89189186/5b17963e-2d71-4f21-b9b7-711948c7aa14)
 
