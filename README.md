@@ -66,5 +66,7 @@
 
 <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Slack-E01E5A?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+
 </div>
 
